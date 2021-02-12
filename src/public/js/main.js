@@ -147,6 +147,9 @@ function display (){
                 }
                 tbod.appendChild(tro)
             }
+            document.getElementById("create").reset();
+            document.getElementById("filt").reset();
+
             
         })
         xhr.open('GET',url);
