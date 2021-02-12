@@ -1,17 +1,17 @@
-![Alt text](./First.png "1")
-![Alt text](./Sec.png "2nd")
-![Alt text](./Third.png "3rd")
-![Alt text](./4th.png "4th")
+![Alt text](./1st.png "1")
 
-Anonymous-Thoughts
+![Alt text](./3rd.png "3rd")
+
+
+#Anonymous-Thoughts
 
 This is a site where users can write anonymous reviews on a Professor or a Course that they have taken. They can also filter all the reviews in the website by years and semester so the user can find a specific review easier.
 
-Motivation
+##Motivation
 
 This project was motivated by a desire to practice fundamental web-development skills and turning into a very user-friendly site! This was particularly aimed at practicing using Express' framework to develop an online application, integrating the application with mongodb through Mongoose and working with XMLHttpRequests/ asynchronous Javascript
 
-How to Work/Install
+##How to Work/Install
 
 There are some technologies you would need to have installed in your computer before you begin. Download Node.js, which will also give you npm, which is a package manager which will help you acquire more required technologies. You will also need to download the community version of Mongodb downloaded.
 
